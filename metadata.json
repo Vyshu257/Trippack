@@ -1,0 +1,6 @@
+{
+  "name": "Trippack - Smart Travel & Luggage Planner",
+  "description": "Plan your perfect trip with destination route suggestions, weather reports, duration planner, and smart luggage packing recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
